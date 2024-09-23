@@ -1,0 +1,14 @@
+#root {
+  max-width: 414px;
+  height: 667px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  border: 2px solid white;
+}
+
+.main-container{
+  width: 414px;
+  
+  
+}
